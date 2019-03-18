@@ -1,8 +1,5 @@
 ## Обо мне
 
-
-![Image](muilo911.github.io/220x220.JPG)
-
 <img src="muilo911.github.io/220x220.JPG" width="220" height="220"/>
       
 Дмитрий Василенко, 35 лет. <br />
