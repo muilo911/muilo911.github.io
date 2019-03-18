@@ -31,10 +31,9 @@
 Учетно-финансовый / Финансы и кредит, экономист
 ```
 ### Контактная информация
-```
-muilo911@mail.ru
+[muilo911@mail.ru](muilo911@mail.ru)
 +375(29) 394 06 71
-```
+
 
 ```markdown
 Syntax highlighted code block
