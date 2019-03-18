@@ -1,9 +1,9 @@
 ## Обо мне
 
-<img src="muilo911.github.io/220x220.JPG" width="220" height="220" align="left" hspace="40"/> 
-**Дмитрий Василенко** <br />
-**35 лет** <br />
-**Желаемая позиция: C# developer** <br />
+<img src="muilo911.github.io/220x220.JPG" width="220" height="220" align="left"/> 
+**        Дмитрий Василенко** <br />
+**        35 лет** <br />
+**        Желаемая позиция: C# developer** <br />
 <br /><br /><br /><br /><br /><br /><br />
 
 6+ лет в роли бизнес-аналитика в ООО "СофтКлуб - ЦЕНТР РАЗРАБОТКИ". <br />
