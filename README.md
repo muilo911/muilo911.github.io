@@ -1,9 +1,9 @@
 ## Обо мне
 
 <img src="muilo911.github.io/220x220.JPG" width="220" height="220" align="left"/> 
-&#160;&#160;&#160; **Дмитрий Игоревич Василенко** <br />
-&#160;&#160;&#160; **35 лет** <br />
-&#160;&#160;&#160; **Желаемая позиция: C# developer** <br />
+&#160;&#160;&#160; <b>Дмитрий Игоревич Василенко</b> <br />
+&#160;&#160;&#160; <b>35 лет</b> <br />
+&#160;&#160;&#160; <b>Желаемая позиция: C# developer</b> <br />
 <br /><br /><br /><br /><br /><br /><br />
 
 6+ лет в роли бизнес-аналитика в ООО "СофтКлуб - ЦЕНТР РАЗРАБОТКИ". <br />
@@ -38,34 +38,3 @@ _Учетно-финансовый / Финансы и кредит, эконо�
 ## Контактная информация
 [muilo911@mail.ru](muilo911@mail.ru) <br />
 +375 (29) 394 06 71
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-You can use the [editor on GitHub](https://github.com/muilo911/muilo911.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/muilo911/muilo911.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
