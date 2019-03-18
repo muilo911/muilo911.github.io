@@ -1,12 +1,36 @@
-## Welcome to GitHub Pages
+## Обо мне
+Дмитрий Василенко, 35 лет. 
+6+ лет в роли бизнес-аналитика в ООО "СофтКлуб - ЦЕНТР РАЗРАБОТКИ".
+Сфера деятельности - разработка банковского ПО.
+Круг обязанностей (компетенция):
+ - взаимодействие с заказчиками, анализ предложений/замечаний по работе ПО
+ - разработка технических заданий на доработку
+ - консультирование команды разработчиков и тестировщиков
+ - презентация работы ПО, внедрение программных продуктов
+ - участие в тестировании десктопных приложений для банковской отрасли
 
-You can use the [editor on GitHub](https://github.com/muilo911/muilo911.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Предыдущий опыт работы
+6+ лет в банковской отрасли - ведущий экономист:
+- Национальный банк Республики Беларусь 
+- ЗАО "Альфа-Банк"
+- ОАО "Банк БелВЭБ"
+Направление деятельности: дилинговые операции на международном и внутреннем рынке, совершение операций по покупке-продаже иностранной валюты на ОАО «Белорусская валютно-фондовая биржа», сопровождение казначейских/кредитных операций (бэкофис), весь спектр внешнеэкономических операций, взаимодействие с клиентами - юридическими лицами.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Образование
+2018
+Белорусский государственный университет информатики и радиоэлектроники, Минск
+Повышения квалификации и переподготовки ИИТ БГУИР / Программное обеспечение информационных систем, инженер-программист
+2008
+Минский институт управления, Минск
+Учетно-финансовый / Финансы, денежное обращение и кредит, магистр
+2006
+Минский институт управления, Минск
+Учетно-финансовый / Финансы и кредит, экономист
 
-### Markdown
+### Контактная информация
+muilo911@mail.ru
++375(29) 394 06 71
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -28,7 +52,9 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+You can use the [editor on GitHub](https://github.com/muilo911/muilo911.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/muilo911/muilo911.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
