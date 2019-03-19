@@ -1,6 +1,6 @@
 ## Обо мне
 
-<img src="muilo911.github.io/220x220.JPG" width="220" height="220" align="left"/> <br />
+<img src="muilo911.github.io/1876.png" width="220" height="220" align="left"/> <br />
 &#160;&#160;&#160; <font size="4"><b>Дмитрий Василенко</b></font> <br />
 &#160;&#160;&#160; <b>35 лет</b> <br />
 &#160;&#160;&#160; <b>Желаемая позиция: C# developer</b> <br />
